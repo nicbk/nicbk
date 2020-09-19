@@ -1,0 +1,41 @@
+baseURL = "https://xrop.me"
+languageCode = "en-us"
+title = "Nicolás Kennedy"
+theme = "etch"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "Blog of Nicolás Kennedy"
+  copyright = "Copyright © 2020 Nicolás Kennedy"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "projects"
+    name = "projects"
+    title = "projects"
+    url = "/projects/"
+    weight = 30
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
