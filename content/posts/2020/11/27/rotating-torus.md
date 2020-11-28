@@ -4,6 +4,8 @@ date: 2020-11-27
 draft: false
 ---
 
+**UPDATE**: An browser based rotating torus which uses similar source code can be viewed [here!](/projects/ascii-donut)
+
 I recently read about a [spinning
 donut](https://www.a1k0n.net/2011/07/20/donut-math.html), and decided to render
 one for myself. My donut is [here](https://gitlab.com/xrop/donut-embedded). I
