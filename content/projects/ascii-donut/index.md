@@ -86,10 +86,12 @@ Module.setStatus = function(text) {
 <style>
 #console {
     border-radius: 2%;
-    width: 50em;
-    height: 48em;
-    margin: -15%;
+    white-space: nowrap;
+    width: 55em;
+    height: 47em;
+    margin: -23%;
     margin-top: 3%;
+    margin-bottom: 1%;
     border-left: 0px;
     border-right: 0px;
     padding-left: 0px;
