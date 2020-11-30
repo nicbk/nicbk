@@ -11,7 +11,7 @@ Please encrypt or at least sign email messages.
 
 The GnuPG key changes periodically. The most recent key is listed below.
 
-**Fingerprint**: 4B334F96BE879D7FA655ACF1221095E5AD1B0915
+**Fingerprint**: 0D494552E5C72F0DECA3090697082AD142656BD0 
 
 [**Public Key**: Nicolás Kennedy &lt;xrop at xrop dot me&gt;](/xrop.asc)
 
