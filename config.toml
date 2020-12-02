@@ -1,4 +1,4 @@
-baseURL = "https://xrop.me"
+baseURL = "/"
 languageCode = "en-us"
 title = "Nicolás Kennedy"
 theme = "etch"
