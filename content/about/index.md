@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+This site runs on [<img id="ipfs-icon" src="/about/ipfs.png"/> IPFS](https://ipfs.io)
+
 &nbsp;
 
 ### Communication
@@ -49,3 +51,12 @@ preferably free and open source.
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
+
+<style>
+#ipfs-icon {
+    max-width: 1.5em;
+    max-height: 1.5em;
+    padding-left: 1.35em;
+    vertical-align: middle;
+}
+</style>
