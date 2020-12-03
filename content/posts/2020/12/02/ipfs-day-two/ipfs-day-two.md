@@ -1,6 +1,6 @@
 ---
 title: "IPFS Day Two"
-date: 2020-12-02
+date: 2020-12-02T00:00:00-00:00
 draft: false
 ---
 See the [previous blog post](/ipfs-hosting) for how I put this site on IPFS
