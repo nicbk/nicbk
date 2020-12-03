@@ -15,7 +15,7 @@ The GnuPG key changes periodically. The most recent key is listed below.
 
 **Fingerprint**: 0D494552E5C72F0DECA3090697082AD142656BD0 
 
-[**Public Key**: Nicolás Kennedy &lt;xrop at xrop dot me&gt;](/xrop.asc)
+[**Public Key**: Nicolás Kennedy &lt;xrop at xrop dot me&gt;](/about/xrop.asc)
 
 &nbsp;
 
