@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-This site runs on [<img id="ipfs-icon" src="/about/ipfs.png"/> IPFS](https://ipfs.io)
-
 &nbsp;
 
 ### Communication
