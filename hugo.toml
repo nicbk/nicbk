@@ -1,0 +1,24 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Nicolás Kennedy'
+theme = "nicbk_theme"
+
+[menu]
+  [[menu.main]]
+    name = "posts"
+    pre = "posts"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "about"
+    pre = "about"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    name = "projects"
+    pre = "projects"
+    url = "/projects"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
