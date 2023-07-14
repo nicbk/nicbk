@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = github:nicbk/nicbk.github.io.git
+[submodule "themes/nicbk_theme"]
+	path = themes/nicbk_theme
+	url = github:nicbk/nicbk_theme.git
