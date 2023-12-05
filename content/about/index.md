@@ -3,7 +3,7 @@ title: "About"
 ---
 [**Résumé/CV**](/about/cv.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-kennedy-4aa859270/)
+[LinkedIn](https://www.linkedin.com/in/nicbk/)
 ***
 
 ## Communication
