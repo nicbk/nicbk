@@ -9,8 +9,8 @@ title: "About"
 ## Communication
 ||||
 |:-|-|:-|
-|**Mail**||[nicolas at nicbk dot com](mailto:nicolas@nicbk.com)|
-|**Academic Mail**||[nbkennedy at ucdavis dot edu](mailto:nbkennedy@ucdavis.edu)|
+|**Mail**||nicolas at nicbk dot com|
+|**Academic Mail**||nicbk at stanford dot edu|
 
 Please encrypt or at least sign email messages.\
 My currently active GnuPG key is listed below.
@@ -37,7 +37,8 @@ I usually host projects on GitHub.
 <table>
   <tr>
     <td style="width: 60%; padding-right: 8%">
-      I am an undergraduate student at the University of California, Davis.
+      I am an incoming masters student at Stanford.
+      I am finishing up my undergraduate computer science degree summa cum laude at UC Davis.
       My career goals are broadly as follows: to contribute to the fields of
       mathematics and physics with a focus on artificial intelligence, and
       to engineer ethical and impactful creations that are preferably free
