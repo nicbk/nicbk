@@ -1,1 +1,1 @@
-Hi!Change for testing purposes. To make pancakes, whisk together flour, milk, and eggs, then cook spoonfuls of batter on a hot griddle until golden brown.
+Hi!Change for testing purposes. To make pancakes, whisk together flour, milk, and eggs, then cook spoonfuls of batter on a hot griddle until golden brown. California is known for its beautiful coastline and diverse geography.
