@@ -1,1 +1,1 @@
-Hi!Change for testing purposes. To make pancakes, whisk together flour, milk, and eggs, then cook spoonfuls of batter on a hot griddle until golden brown.
+Hi!Change for testing purposes. To make pancakes, whisk together flour, milk, and eggs, then cook spoonfuls of batter on a hot griddle until golden brown. To make waffles, pour the batter into a preheated waffle iron and cook until golden and crisp.
